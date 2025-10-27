@@ -2,6 +2,8 @@
 
 A terminal-based calculator with natural language calculations and currency conversion, inspired by Numi and Soulver 3.
 
+![a screenshot of the indumi calculator](image.png)
+
 ## Features
 
 - **Text editor interface** - Edit calculations like a text file
